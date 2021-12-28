@@ -147,14 +147,14 @@ i{
     padding-top: .5rem;
 }
 .time{
-    padding-left: 11rem;
+    padding-left: 8rem;
     padding-top: .5rem;
 }
 .input-cnt{
     display: flex;
     position: fixed;
     bottom: 1rem;
-    margin-left: 1rem;
+    
 }
 .input-cnt>#search{
     min-width: 50px;
@@ -192,7 +192,7 @@ input::placeholder{
     min-width:30px;
     padding: 10px;
     text-align: center;
-    margin-left: .5rem;
+    margin-left: .2rem;
     background-color: #696868;    
     border-radius: 5rem;
 }
